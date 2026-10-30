@@ -15,6 +15,21 @@ The objective of this project was to build a secure and functional cybersecurity
 * Create a clean recovery point for future lab activities
 * Document the setup process
 
+## Lab Architecture
+
+
+<img width="830" height="451" alt="Lab-Architecture-Diagram" src="https://github.com/user-attachments/assets/221c6819-b84f-4706-acc5-c86b907cfb89" />
+
+
+
+
+
+
+
+
+
+
+
 ## Lab Setup Steps
 #### Step 1: Download Required Software
 
